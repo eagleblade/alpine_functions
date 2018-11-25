@@ -1,2 +1,2 @@
 #test
-check_user -h "to show this text"
+check_user --h "to show this text"
